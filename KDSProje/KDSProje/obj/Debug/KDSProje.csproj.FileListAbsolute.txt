@@ -1,0 +1,10 @@
+C:\Users\Onur\Desktop\KDS Proje\C#\KDSProje\KDSProje\bin\Debug\KDSProje.exe.config
+C:\Users\Onur\Desktop\KDS Proje\C#\KDSProje\KDSProje\bin\Debug\KDSProje.exe
+C:\Users\Onur\Desktop\KDS Proje\C#\KDSProje\KDSProje\bin\Debug\KDSProje.pdb
+C:\Users\Onur\Desktop\KDS Proje\C#\KDSProje\KDSProje\obj\Debug\KDSProje.csproj.AssemblyReference.cache
+C:\Users\Onur\Desktop\KDS Proje\C#\KDSProje\KDSProje\obj\Debug\KDSProje.Form1.resources
+C:\Users\Onur\Desktop\KDS Proje\C#\KDSProje\KDSProje\obj\Debug\KDSProje.Properties.Resources.resources
+C:\Users\Onur\Desktop\KDS Proje\C#\KDSProje\KDSProje\obj\Debug\KDSProje.csproj.GenerateResource.cache
+C:\Users\Onur\Desktop\KDS Proje\C#\KDSProje\KDSProje\obj\Debug\KDSProje.csproj.CoreCompileInputs.cache
+C:\Users\Onur\Desktop\KDS Proje\C#\KDSProje\KDSProje\obj\Debug\KDSProje.exe
+C:\Users\Onur\Desktop\KDS Proje\C#\KDSProje\KDSProje\obj\Debug\KDSProje.pdb
